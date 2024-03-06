@@ -1,0 +1,1 @@
+![Yellow And Black Time Management YouTube Thumbnail (1)](https://github.com/astechmaster/Convert-a-Given-Number-to-Hours-Minutes-and-Second-Using-JavaScript/assets/159613207/6a593a30-01dd-4429-a6f3-f2ca2268756f)
